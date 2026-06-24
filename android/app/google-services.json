@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347855116763",
+    "project_id": "stuntingcare-9fb8c",
+    "storage_bucket": "stuntingcare-9fb8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347855116763:android:f927d6aab8bc53ae092ffe",
+        "android_client_info": {
+          "package_name": "com.example.stuntingcare_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347855116763-lvqn78scrl1dgg5lss5gjmt7i52e1sbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrlZyOYnguuAMeinukd3c9_BTQiUhWso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347855116763-lvqn78scrl1dgg5lss5gjmt7i52e1sbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
