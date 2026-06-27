@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "347855116763",
-    "project_id": "stuntingcare-9fb8c",
-    "storage_bucket": "stuntingcare-9fb8c.firebasestorage.app"
+    "project_number": "403309002259",
+    "project_id": "stuntingcare-1e8e8",
+    "storage_bucket": "stuntingcare-1e8e8.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:347855116763:android:f927d6aab8bc53ae092ffe",
+        "mobilesdk_app_id": "1:403309002259:android:081d92d7798a4f0da289e6",
         "android_client_info": {
-          "package_name": "com.example.stuntingcare_app"
+          "package_name": "com.skripsi.stuntingcare"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "347855116763-lvqn78scrl1dgg5lss5gjmt7i52e1sbj.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDxrlZyOYnguuAMeinukd3c9_BTQiUhWso"
+          "current_key": "AIzaSyBp4JqTvh60RTn_m_5Rxkix54ZcXe3ERr0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "347855116763-lvqn78scrl1dgg5lss5gjmt7i52e1sbj.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

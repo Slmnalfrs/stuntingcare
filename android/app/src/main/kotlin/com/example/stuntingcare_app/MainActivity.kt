@@ -1,4 +1,4 @@
-package com.example.stuntingcare_app
+package com.skripsi.stuntingcare
 
 import io.flutter.embedding.android.FlutterActivity
 
